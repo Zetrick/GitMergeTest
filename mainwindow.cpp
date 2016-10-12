@@ -8,6 +8,8 @@ MainWindow::MainWindow(QWidget *parent) :
     ui->setupUi(this);
 
     //Code added in master branch at 1pm
+
+    //Code added in new_code at 2pm
 }
 
 MainWindow::~MainWindow()
